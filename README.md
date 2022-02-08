@@ -13,9 +13,9 @@
 
 👤 **Lekan Jimoh**
 
-- GitHub: [@githubhandle](https://github.com/d2ndjim)
-- Twitter: [@twitterhandle](https://twitter.com/d2ndjim_)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lekanj)
+- GitHub: [github.com/d2ndjim](https://github.com/d2ndjim)
+- Twitter: [@d2ndjim_](https://twitter.com/@d2ndjim_)
+- LinkedIn: [linkedin.com/in/lekanj](https://linkedin.com/in/lekanj)
 
 
 
